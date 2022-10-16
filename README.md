@@ -41,5 +41,8 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 
+### Preview 
+![Preview][./react-portfolio/src/assets/preview.png]
+
 ## Deployed Link:
 https://react-portfolio-taha.herokuapp.com/
