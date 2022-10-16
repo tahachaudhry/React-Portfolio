@@ -1,0 +1,20 @@
+/* Applying overall CSS variables */
+/* Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Font: Roboto Thin 100 */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+@layer base {
+  /* Body Text */
+  body {
+    @apply font-[Roboto];
+  }
+  /* Navbar styling */
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
