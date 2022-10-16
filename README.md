@@ -42,7 +42,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ### Preview 
-![Preview][./react-portfolio/src/assets/preview.png]
+![Preview](./react-portfolio/src/assets/preview.png)
 
 ## Deployed Link:
 https://react-portfolio-taha.herokuapp.com/
