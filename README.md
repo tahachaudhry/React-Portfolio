@@ -1,5 +1,4 @@
 # React-Portfolio
-# React-Portfolio
 # 20-React-Portfolio
 
 I have created a portfolio that uses the latest technologies such as react.
@@ -44,6 +43,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Preview:
 
-<img src="react-portfolio/src/assets/preview.png" alt="" />
+<img src="./react-portfolio/src/assets/preview.png" alt="" />
 
 ## Deployed Link:
