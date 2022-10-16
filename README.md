@@ -44,6 +44,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Preview:
 
-<img src="./react-portfolio/src/assets/images/preview.png" alt="" />
+<img src="react-portfolio/src/assets/preview.png" alt="" />
 
 ## Deployed Link:
